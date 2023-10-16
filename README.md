@@ -4,7 +4,7 @@ This project aims to train a model to recognize gender through images.
 
 ## Data Collection
 
-1. Download the image dataset from [this link](http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz). The dataset contains the names and pictures of over 5000 individuals, classified into folders.
+1. Download the image dataset from http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz. The dataset contains the names and pictures of over 5000 individuals, classified into folders.
 
 ## Data Processing
 
